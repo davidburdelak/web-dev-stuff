@@ -9,6 +9,7 @@
 
 ### API (Application Programming Interface)
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
+- [OpenWeatherMap API](https://openweathermap.org/api) <sup>[ENG]</sup>
 - [Airly API](https://developer.airly.eu/) <sup>[ENG]</sup>
 
 ### Database
