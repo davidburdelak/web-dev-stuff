@@ -12,3 +12,6 @@
 
 ### GIT
 - [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
+
+### Web design isnpirations
+- [Awwwards](https://www.awwwards.com/websites/) <sup>[ENG]</sup>
