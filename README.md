@@ -8,6 +8,7 @@
 - [JavaScript libraries and frameworks](https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/) <sup>[ENG]</sup>
 
 ### API (Application Programming Interface)
+- [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
 - [Airly API](https://developer.airly.eu/) <sup>[ENG]</sup>
 
 ### Database
