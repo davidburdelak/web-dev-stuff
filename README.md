@@ -9,3 +9,6 @@
 
 ### Database
 - [MySQL Hosting - Free 100MB database](https://remotemysql.com/) <sup>[ENG]</sup>
+
+### GIT
+- [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
