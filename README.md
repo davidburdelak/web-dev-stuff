@@ -12,6 +12,7 @@
 - [OpenWeatherMap API](https://openweathermap.org/api) <sup>[ENG]</sup>
 - [Airly API](https://developer.airly.eu/) <sup>[ENG]</sup>
 - [YouTube API](https://developers.google.com/youtube/v3) <sup>[ENG]</sup>
+- [Facebook API](https://developers.facebook.com/docs) <sup>[ENG]</sup>
 
 ### Database
 - [MySQL Hosting - Free 100MB database](https://remotemysql.com/) <sup>[ENG]</sup>
