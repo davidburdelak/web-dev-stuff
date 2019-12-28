@@ -15,6 +15,8 @@
 - [Vimeo API](https://developer.vimeo.com/) <sup>[ENG]</sup>
 - [Facebook API](https://developers.facebook.com/docs) <sup>[ENG]</sup>
 - [Mercedes-Benz API](https://developer.mercedes-benz.com/apis) <sup>[ENG]</sup>
+- [Language Detection API](https://detectlanguage.com/) <sup>[ENG]</sup>
+
 
 ### Database
 - [MySQL Hosting - Free 100MB database](https://remotemysql.com/) <sup>[ENG]</sup>
