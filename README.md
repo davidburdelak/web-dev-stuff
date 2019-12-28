@@ -17,6 +17,7 @@
 - [Mercedes-Benz API](https://developer.mercedes-benz.com/apis) <sup>[ENG]</sup>
 - [Language Detection API](https://detectlanguage.com/) <sup>[ENG]</sup>RandomUser
 - [Random User API](https://randomuser.me/) <sup>[ENG]</sup>
+- [Football Prediction API](https://boggio-analytics.com/fp-api/) <sup>[ENG]</sup>
 
 
 ### Database
