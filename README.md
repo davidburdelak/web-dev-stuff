@@ -25,7 +25,8 @@
 - [MySQL Hosting - Free 100MB database](https://remotemysql.com/) <sup>[ENG]</sup>
 
 ### Hosting
-- [cPanel - Free 1GB (FTP, mySQL, PHP)](https://www.gigarocket.net/free-hosting.php) <sup>[ENG]</sup>
+- [cPanel - Free 1GB (FTP, mySQL, PHP)](https://www.gigarocket.net/free-hosting.php) <sup>[ENG]</sup>]
+- [InfinityFree - Free Unlimited](https://infinityfree.net/) <sup>[ENG]</sup>]
 
 ### Control version system
 - [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
