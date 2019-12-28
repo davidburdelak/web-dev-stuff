@@ -15,9 +15,10 @@
 - [Vimeo API](https://developer.vimeo.com/) <sup>[ENG]</sup>
 - [Facebook API](https://developers.facebook.com/docs) <sup>[ENG]</sup>
 - [Mercedes-Benz API](https://developer.mercedes-benz.com/apis) <sup>[ENG]</sup>
-- [Language Detection API](https://detectlanguage.com/) <sup>[ENG]</sup>RandomUser
+- [Language Detection API](https://detectlanguage.com/) <sup>[ENG]</sup>
 - [Random User API](https://randomuser.me/) <sup>[ENG]</sup>
 - [Football Prediction API](https://boggio-analytics.com/fp-api/) <sup>[ENG]</sup>
+- [NBA Stats API](https://any-api.com/nba_com/nba_com/docs/API_Description) <sup>[ENG]</sup>
 
 
 ### Database
