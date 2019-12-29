@@ -16,6 +16,16 @@
 - [D3.js](https://d3js.org/) <sup>[ENG]</sup>
 - [Glimmer](https://glimmerjs.com/) <sup>[ENG]</sup>
 - [Granim.js](https://sarcadass.github.io/granim.js/) <sup>[ENG]</sup>
+- [Multiple.js](https://multiple.js.org/) <sup>[ENG]</sup>
+- [Omniscient](https://omniscientjs.github.io/) <sup>[ENG]</sup>
+- [Parsley](http://parsleyjs.org/) <sup>[ENG]</sup>
+- [Popper.js](https://popper.js.org/) <sup>[ENG]</sup>
+- [Premonish](https://mathisonian.github.io/premonish/) <sup>[ENG]</sup>
+- [Przysiek](https://kenwheeler.github.io/slick/) <sup>[ENG]</sup>
+- [TaffyDB](http://taffydb.com/) <sup>[ENG]</sup>
+- [TweenJS](https://www.createjs.com/tweenjs) <sup>[ENG]</sup>
+- [Three.js](https://threejs.org/) <sup>[ENG]</sup>
+- [Voca](https://vocajs.com/) <sup>[ENG]</sup>
 
 #### Frameworks
 - 
