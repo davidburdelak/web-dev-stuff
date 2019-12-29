@@ -8,7 +8,7 @@
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
-- [API](#API-(Application-Programming-Interface))
+- [API (Application Programming Interface)](#API)
 - [Database](#Database)
 - [Hosting](#Hosting)
 - [Control version system](#Control-version-system)
@@ -58,7 +58,7 @@
 #### Compiler
 - [Babel](https://babeljs.io/) <sup>[ENG]</sup>
 
-### API (Application Programming Interface)
+### API
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
 - [OpenWeatherMap API](https://openweathermap.org/api) <sup>[ENG]</sup>
 - [Airly API](https://developer.airly.eu/) <sup>[ENG]</sup>
