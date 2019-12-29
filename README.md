@@ -4,6 +4,16 @@
   <img src="img/header.png" alt="headerLogo"/>
 </p>
 
+# Table of Contents
+- [HTML](#HTML)
+- [CSS](#CSS)
+- [JavaScript](#JavaScript)
+- [API](#API)
+- [Database](#Database)
+- [Hosting](#Hosting)
+- [Control version system](#Control version system)
+- [Web design inspirations](#Web design inspirations)
+
 ## CSS
 #### Preprocessors
 - [Sass](https://sass-lang.com/) <sup>[ENG]</sup>
