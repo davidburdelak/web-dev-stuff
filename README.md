@@ -21,14 +21,22 @@
 - [Parsley](http://parsleyjs.org/) <sup>[ENG]</sup>
 - [Popper.js](https://popper.js.org/) <sup>[ENG]</sup>
 - [Premonish](https://mathisonian.github.io/premonish/) <sup>[ENG]</sup>
-- [Przysiek](https://kenwheeler.github.io/slick/) <sup>[ENG]</sup>
+- [Slick](https://kenwheeler.github.io/slick/) <sup>[ENG]</sup>
 - [TaffyDB](http://taffydb.com/) <sup>[ENG]</sup>
 - [TweenJS](https://www.createjs.com/tweenjs) <sup>[ENG]</sup>
 - [Three.js](https://threejs.org/) <sup>[ENG]</sup>
 - [Voca](https://vocajs.com/) <sup>[ENG]</sup>
 
 #### Frameworks
-- 
+- [ReactJS](https://reactjs.org/) <sup>[ENG]</sup>
+- [Next.js](https://nextjs.org/) <sup>[ENG]</sup>
+- [Vue.js](https://vuejs.org/) <sup>[ENG]</sup>
+- [Angular](https://angular.io/) <sup>[ENG]</sup>
+- [Ember](https://emberjs.com/) <sup>[ENG]</sup>
+- [Webix](https://webix.com/) <sup>[ENG]</sup>
+- [Aurelia](https://aurelia.io/home/) <sup>[ENG]</sup>
+- [Ionic](https://ionicframework.com/docs/v1/guide/preface.html) <sup>[ENG]</sup>
+- [Mocha](https://mochajs.org/) <sup>[ENG]</sup>
 
 ### API (Application Programming Interface)
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
