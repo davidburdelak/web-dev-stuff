@@ -5,7 +5,20 @@
 </p>
 
 ### JavaScript
-- [JavaScript libraries and frameworks](https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/) <sup>[ENG]</sup>
+#### Libraries
+- [Algolia Places](https://community.algolia.com/places/) <sup>[ENG]</sup>
+- [anime.js](https://animejs.com/) <sup>[ENG]</sup>
+- [AOS – Animate On Scroll](https://michalsnik.github.io/aos/) <sup>[ENG]</sup>
+- [Bideo.js](https://rishabhp.github.io/bideo.js/) <sup>[ENG]</sup>
+- [Chart.js](https://www.chartjs.org/) <sup>[ENG]</sup>
+- [Choreographer-js](https://christinecha.github.io/choreographer-js/) <sup>[ENG]</sup>
+- [Cleave.js](https://nosir.github.io/cleave.js/) <sup>[ENG]</sup>
+- [D3.js](https://d3js.org/) <sup>[ENG]</sup>
+- [Glimmer](https://glimmerjs.com/) <sup>[ENG]</sup>
+- [Granim.js](https://sarcadass.github.io/granim.js/) <sup>[ENG]</sup>
+
+#### Frameworks
+- 
 
 ### API (Application Programming Interface)
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
@@ -33,7 +46,7 @@
 ### Control version system
 - [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
 
-### Web design isnpirations
+### Web design inspirations
 - [Awwwards](https://www.awwwards.com/websites/) <sup>[ENG]</sup>
 - [Cssnectar](https://cssnectar.com/) <sup>[ENG]</sup>
 - [Siteinspire](https://www.siteinspire.com/) <sup>[ENG]</sup>
