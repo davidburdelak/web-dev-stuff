@@ -48,7 +48,7 @@
 #### Compiler
 - [Babel](https://babeljs.io/) <sup>[ENG]</sup>
 
-### API (Application Programming Interface)
+## API (Application Programming Interface)
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
 - [OpenWeatherMap API](https://openweathermap.org/api) <sup>[ENG]</sup>
 - [Airly API](https://developer.airly.eu/) <sup>[ENG]</sup>
@@ -62,19 +62,19 @@
 - [NBA Stats API](https://any-api.com/nba_com/nba_com/docs/API_Description) <sup>[ENG]</sup>
 
 
-### Database
+## Database
 - [MySQL Hosting - Free 100MB database](https://remotemysql.com/) <sup>[ENG]</sup>
 
-### Hosting
+## Hosting
 - [cPanel - Free 1GB](https://www.gigarocket.net/free-hosting.php) <sup>[ENG]</sup>
 - [InfinityFree - Free Unlimited](https://infinityfree.net/) <sup>[ENG]</sup>
 - [FreeHosting - Free 10GB](https://www.freehosting.com/free-hosting.html) <sup>[ENG]</sup>
 - [AwardSpace - Free 1GB](https://www.awardspace.com/free-hosting/) <sup>[ENG]</sup>
 
-### Control version system
+## Control version system
 - [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
 
-### Web design inspirations
+## Web design inspirations
 - [Awwwards](https://www.awwwards.com/websites/) <sup>[ENG]</sup>
 - [Cssnectar](https://cssnectar.com/) <sup>[ENG]</sup>
 - [Siteinspire](https://www.siteinspire.com/) <sup>[ENG]</sup>
