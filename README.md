@@ -11,8 +11,8 @@
 - [API](#API)
 - [Database](#Database)
 - [Hosting](#Hosting)
-- [Control version system](#Control version system)
-- [Web design inspirations](#Web design inspirations)
+- [Control version system](#Control-version-system)
+- [Web design inspirations](#Web-design-inspirations)
 
 ## CSS
 #### Preprocessors
