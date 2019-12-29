@@ -13,11 +13,12 @@
 - [Hosting](#Hosting)
 - [Control version system](#Control-version-system)
 - [Web design inspirations](#Web-design-inspirations)
-
+___
 ### HTML
 - [Course of HTML](https://www.youtube.com/watch?v=k2IydkL3EOs&list=PLOYHgt8dIdox9Qq3X9iAdSVekS_5Vcp5r&index=2) <sup>[PL]</sup>
 - [Course of HTML](https://www.youtube.com/watch?v=UB1O30fR-EE) <sup>[ENG]</sup>
 
+___
 ### CSS
 - [Course of CSS](https://www.youtube.com/watch?v=RJEKMbD_kEk&list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) <sup>[PL]</sup>
 - [Course of CSS](https://www.youtube.com/watch?v=yfoY53QXEnI) <sup>[ENG]</sup>
@@ -28,7 +29,9 @@
 - [Stylus](http://stylus-lang.com/) <sup>[ENG]</sup>
 - [PostCSS](https://postcss.org/) <sup>[ENG]</sup>
 
+___
 ### JavaScript
+
 - [Course of JavaScript](https://www.youtube.com/watch?v=OcwON22ctYc&list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) <sup>[PL]</sup>
 - [Course of JavaScript](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>[ENG]</sup>
 
@@ -68,6 +71,7 @@
 #### Compiler
 - [Babel](https://babeljs.io/) <sup>[ENG]</sup>
 
+___
 ### API
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
 - [OpenWeatherMap API](https://openweathermap.org/api) <sup>[ENG]</sup>
@@ -81,21 +85,28 @@
 - [Football Prediction API](https://boggio-analytics.com/fp-api/) <sup>[ENG]</sup>
 - [NBA Stats API](https://any-api.com/nba_com/nba_com/docs/API_Description) <sup>[ENG]</sup>
 
-
+___
 ### Database
+
 - [MySQL Hosting - Free 100MB database](https://remotemysql.com/) <sup>[ENG]</sup>
 
+___
 ### Hosting
+
 - [cPanel - Free 1GB](https://www.gigarocket.net/free-hosting.php) <sup>[ENG]</sup>
 - [InfinityFree - Free Unlimited](https://infinityfree.net/) <sup>[ENG]</sup>
 - [FreeHosting - Free 10GB](https://www.freehosting.com/free-hosting.html) <sup>[ENG]</sup>
 - [AwardSpace - Free 1GB](https://www.awardspace.com/free-hosting/) <sup>[ENG]</sup>
 
+___
 ### Control version system
-- [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
 
+- [Git & GitHub course for beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) <sup>[ENG]</sup>
+___
 ### Web design inspirations
+
 - [Awwwards](https://www.awwwards.com/websites/) <sup>[ENG]</sup>
 - [Cssnectar](https://cssnectar.com/) <sup>[ENG]</sup>
 - [Siteinspire](https://www.siteinspire.com/) <sup>[ENG]</sup>
 - [Behance](https://www.behance.net/search?field=102&content=projects&sort=appreciations&time=week) <sup>[ENG]</sup>
+___
