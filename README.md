@@ -14,7 +14,14 @@
 - [Control version system](#Control-version-system)
 - [Web design inspirations](#Web-design-inspirations)
 
+### HTML
+- [Course of HTML](https://www.youtube.com/watch?v=k2IydkL3EOs&list=PLOYHgt8dIdox9Qq3X9iAdSVekS_5Vcp5r&index=2) <sup>[PL]</sup>
+- [Course of HTML](https://www.youtube.com/watch?v=UB1O30fR-EE) <sup>[ENG]</sup>
+
 ### CSS
+- [Course of CSS](https://www.youtube.com/watch?v=RJEKMbD_kEk&list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) <sup>[PL]</sup>
+- [Course of CSS](https://www.youtube.com/watch?v=yfoY53QXEnI) <sup>[ENG]</sup>
+
 #### Preprocessors
 - [Sass](https://sass-lang.com/) <sup>[ENG]</sup>
 - [Less](http://lesscss.org/) <sup>[ENG]</sup>
@@ -22,6 +29,9 @@
 - [PostCSS](https://postcss.org/) <sup>[ENG]</sup>
 
 ### JavaScript
+- [Course of JavaScript](https://www.youtube.com/watch?v=OcwON22ctYc&list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) <sup>[PL]</sup>
+- [Course of JavaScript](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>[ENG]</sup>
+
 #### Libraries
 - [Algolia Places](https://community.algolia.com/places/) <sup>[ENG]</sup>
 - [anime.js](https://animejs.com/) <sup>[ENG]</sup>
