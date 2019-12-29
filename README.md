@@ -8,7 +8,7 @@
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
-- [API](#API)
+- [API](#API-(Application-Programming-Interface))
 - [Database](#Database)
 - [Hosting](#Hosting)
 - [Control version system](#Control-version-system)
