@@ -4,6 +4,13 @@
   <img src="img/header.png" alt="headerLogo"/>
 </p>
 
+### CSS
+#### Preprocessors
+- [Sass](https://sass-lang.com/) <sup>[ENG]</sup>
+- [Less](http://lesscss.org/) <sup>[ENG]</sup>
+- [Stylus](http://stylus-lang.com/) <sup>[ENG]</sup>
+- [PostCSS](https://postcss.org/) <sup>[ENG]</sup>
+
 ### JavaScript
 #### Libraries
 - [Algolia Places](https://community.algolia.com/places/) <sup>[ENG]</sup>
@@ -37,6 +44,9 @@
 - [Aurelia](https://aurelia.io/home/) <sup>[ENG]</sup>
 - [Ionic](https://ionicframework.com/docs/v1/guide/preface.html) <sup>[ENG]</sup>
 - [Mocha](https://mochajs.org/) <sup>[ENG]</sup>
+
+### Compiler
+- [Babel](https://babeljs.io/) <sup>[ENG]</sup>
 
 ### API (Application Programming Interface)
 - [GitHub API](https://developer.github.com/v3/) <sup>[ENG]</sup>
