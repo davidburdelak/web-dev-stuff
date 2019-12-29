@@ -4,14 +4,14 @@
   <img src="img/header.png" alt="headerLogo"/>
 </p>
 
-### CSS
+## CSS
 #### Preprocessors
 - [Sass](https://sass-lang.com/) <sup>[ENG]</sup>
 - [Less](http://lesscss.org/) <sup>[ENG]</sup>
 - [Stylus](http://stylus-lang.com/) <sup>[ENG]</sup>
 - [PostCSS](https://postcss.org/) <sup>[ENG]</sup>
 
-### JavaScript
+## JavaScript
 #### Libraries
 - [Algolia Places](https://community.algolia.com/places/) <sup>[ENG]</sup>
 - [anime.js](https://animejs.com/) <sup>[ENG]</sup>
