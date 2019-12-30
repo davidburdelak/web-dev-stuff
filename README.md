@@ -23,6 +23,26 @@ ___
 - [Course of CSS](https://www.youtube.com/watch?v=RJEKMbD_kEk&list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) <sup>[PL]</sup>
 - [Course of CSS](https://www.youtube.com/watch?v=yfoY53QXEnI) <sup>[ENG]</sup>
 
+#### Libraries
+- [Boostrap](https://getbootstrap.com/) <sup>[ENG]</sup>
+- [Animate.css](https://daneden.github.io/animate.css/) <sup>[ENG]</sup>
+- [Magic Animations](https://www.minimamente.com/project/magic/) <sup>[ENG]</sup>
+- [Pure](https://purecss.io/) <sup>[ENG]</sup>
+- [Semantic UI](https://semantic-ui.com/) <sup>[ENG]</sup>
+- [Materialize CSS](https://materializecss.com/) <sup>[ENG]</sup>
+- [CSShake](http://elrumordelaluz.github.io/csshake/#1) <sup>[ENG]</sup>
+- [Hover.css](http://ianlunn.github.io/Hover/) <sup>[ENG]</sup>
+- [Foundation](https://foundation.zurb.com/) <sup>[ENG]</sup>
+- [Bulma](https://bulma.io/) <sup>[ENG]</sup>
+- [UI kit](https://getuikit.com/) <sup>[ENG]</sup>
+- [Milligram](https://milligram.io/) <sup>[ENG]</sup>
+- [Skeleton](http://getskeleton.com/) <sup>[ENG]</sup>
+- [Tailwind CSS](https://tailwindcss.com/) <sup>[ENG]</sup>
+- [Spectre](https://picturepan2.github.io/spectre/) <sup>[ENG]</sup>
+- [Base](https://getbase.org/) <sup>[ENG]</sup>
+- [Picnic CSS](https://picnicss.com/) <sup>[ENG]</sup>
+- [Dead Simple Grid](https://github.com/mourner/dead-simple-grid) <sup>[ENG]</sup>
+ 
 #### Preprocessors
 - [Sass](https://sass-lang.com/) <sup>[ENG]</sup>
 - [Less](http://lesscss.org/) <sup>[ENG]</sup>
