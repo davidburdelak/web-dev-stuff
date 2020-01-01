@@ -106,6 +106,7 @@ ___
 - [NBA Stats API](https://any-api.com/nba_com/nba_com/docs/API_Description) <sup>[ENG]</sup>
 - [BitBay API](https://bitbay.net/pl/api-publiczne) <sup>[PL]</sup>
 - [ClickMeter API](https://support.clickmeter.com/hc/en-us/categories/201474986) <sup>[ENG]</sup>
+- [Uber API](https://developer.uber.com/docs/riders/ride-requests/tutorials/api/introduction) <sup>[ENG]</sup>
 
 ___
 ### Database
