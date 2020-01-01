@@ -104,6 +104,7 @@ ___
 - [Random User API](https://randomuser.me/) <sup>[ENG]</sup>
 - [Football Prediction API](https://boggio-analytics.com/fp-api/) <sup>[ENG]</sup>
 - [NBA Stats API](https://any-api.com/nba_com/nba_com/docs/API_Description) <sup>[ENG]</sup>
+- [BitBay API](https://bitbay.net/pl/api-publiczne) <sup>[ENG]</sup>
 
 ___
 ### Database
