@@ -108,6 +108,7 @@ ___
 - [ClickMeter API](https://support.clickmeter.com/hc/en-us/categories/201474986) <sup>[ENG]</sup>
 - [Uber API](https://developer.uber.com/docs/riders/ride-requests/tutorials/api/introduction) <sup>[ENG]</sup>
 - [Twitch API](https://dev.twitch.tv/docs/api) <sup>[ENG]</sup>
+- [Twitter API](https://developer.twitter.com/en/docs) <sup>[ENG]</sup>
 
 ___
 ### Database
