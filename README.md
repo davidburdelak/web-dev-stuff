@@ -24,7 +24,7 @@ ___
 - [Course of CSS](https://www.youtube.com/watch?v=yfoY53QXEnI) <sup>[ENG]</sup>
 
 #### Libraries
-- [Boostrap](https://getbootstrap.com/) <sup>[ENG]</sup>
+- [Bootstrap](https://getbootstrap.com/) <sup>[ENG]</sup>
 - [Animate.css](https://daneden.github.io/animate.css/) <sup>[ENG]</sup>
 - [Magic Animations](https://www.minimamente.com/project/magic/) <sup>[ENG]</sup>
 - [Pure](https://purecss.io/) <sup>[ENG]</sup>
